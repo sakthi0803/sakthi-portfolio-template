@@ -206,6 +206,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .content .content-image {
   position: relative;
+  top: 20px;
   animation: anime-2 4s infinite alternate-reverse forwards ease-in-out;
 }
 
