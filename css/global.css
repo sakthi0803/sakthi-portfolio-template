@@ -1,8 +1,11 @@
 /* Utilities */
 .container {
-  margin: 0 auto;
-  max-width: 1200px;
+  margin: 0 5%;
   padding: 1rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Exo,sans-serif;
 }
 
 .color-1 {
